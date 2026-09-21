@@ -1,5 +1,5 @@
 import openai
-openai.api_key = "sk-y7IDx7dwlBsUOdzSzlKogsYBkAQQZ5a_cXTgwDv-q6T3BlbkFJS4eIsmzucLpMGor92hI3Ww0IA4synKqLECs6i1f2cA"
+openai.api_key = "secret key"
 class Image:
     def __init__(self, answer):
         self._correctanswer = answer
