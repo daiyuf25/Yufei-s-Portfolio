@@ -1,1 +1,1 @@
-The AI based answer validation feature only works if you buy tokens from OpenAI. However, I am out of tokens. A fully functioning version of the code with out the ChatGPT feature is in the folder named "Guess the Picture NO API Call" 
+The AI based answer validation feature only works with an api key and tokens. To use the game with the answer validation feature assign openai.api_key to your own personal api key. A fully functioning version of the code with out the ChatGPT feature is in the folder named "Guess the Picture NO API Call".
